@@ -1,0 +1,10 @@
+{
+    "play_sound": 0,
+    "open_tabs": 1,
+    "fresh_max": 10,
+    "save_interval": 300,
+    "threshold": 0,
+    "dump_contracts": 1,
+    "recent_tx_max": 10,
+    "bsc_api_key": "KSN6A5F57CYJWZNBTYICNUN2ZZM76ZV528"
+}
