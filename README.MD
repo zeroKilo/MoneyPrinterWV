@@ -5,5 +5,3 @@ well this isnt exactly a printer, but it helps you find and check new token star
 this tool uses bscscan api for some functions, for testing you can use my api key thats included, but you should replace it, because you know, other people :) you find it in data/options.txt
 
 [![Alt text](https://img.youtube.com/vi/pA8qgLaWP5k/0.jpg)](https://www.youtube.com/watch?v=pA8qgLaWP5k)
-
-if you liked this, im happy about any donations to 0x94AaBbCeEe2B08764DF187CF3bc7370Cf6D9E0Bc (so I can play around more^^) 
